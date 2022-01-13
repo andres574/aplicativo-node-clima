@@ -1,0 +1,20 @@
+{
+    "name": "04-clima-app",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.24.0",
+        "colors": "^1.4.0",
+        "dotenv": "^11.0.0",
+        "fetch": "^1.1.0",
+        "inquirer": "^8.2.0"
+    }
+}
